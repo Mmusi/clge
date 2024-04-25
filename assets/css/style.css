@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: #6F284F;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -150,7 +150,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
-  color: #004289;
+  color: #6F284F;
   font-weight: 500;
   white-space: nowrap;
   transition: 0.3s;

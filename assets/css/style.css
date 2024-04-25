@@ -1,5 +1,5 @@
 /**
-* Template Name: 
+* Template Name: NewBiz
 * Template URL: https://bootstrapmade.com/newbiz-bootstrap-business-template/
 * Updated: Mar 17 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
@@ -150,7 +150,7 @@ h6 {
   padding: 10px 0 10px 30px;
   font-family: "Montserrat", sans-serif;
   font-size: 15px;
-  color: #6F284F;
+  color: #004289;
   font-weight: 500;
   white-space: nowrap;
   transition: 0.3s;
@@ -167,7 +167,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #007bff;
+  color: #6F284F;
 }
 
 .navbar .dropdown ul {
@@ -202,7 +202,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #007bff;
+  color: #6F284F;
 }
 
 .navbar .dropdown:hover>ul {
@@ -301,7 +301,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #007bff;
+  color: #6F284F;
 }
 
 .navbar-mobile .dropdown ul {
@@ -331,7 +331,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #007bff;
+  color: #6F284F;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -428,8 +428,8 @@ h6 {
 }
 
 #hero .hero-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
+  background: #6F284F;
+  border: 2px solid #6F284F;
   color: #fff;
 }
 
@@ -444,8 +444,8 @@ h6 {
 }
 
 #hero .hero-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
+  background: #6F284F;
+  border-color: #6F284F;
   color: #fff;
 }
 
@@ -593,18 +593,18 @@ section {
   justify-content: center;
   align-items: center;
   border-radius: 50%;
-  border: 2px solid #007bff;
+  border: 2px solid #6F284F;
   transition: all 0.3s ease-in-out;
 }
 
 #about .about-container .icon-box .icon i {
-  color: #007bff;
+  color: #6F284F;
   font-size: 24px;
   line-height: 0;
 }
 
 #about .about-container .icon-box:hover .icon {
-  background: #007bff;
+  background: #6F284F;
 }
 
 #about .about-container .icon-box:hover .icon i {
@@ -683,7 +683,7 @@ section {
 }
 
 #services .box:hover .title a {
-  color: #007bff;
+  color: #6F284F;
 }
 
 #services .description {
@@ -704,8 +704,8 @@ section {
 }
 
 #why-us .card {
-  background: #00458f;
-  border-color: #00458f;
+  background: #6F284F;
+  border-color: #6F284F;
   border-radius: 0px;
   margin: 0 15px;
   padding: 15px 0;
@@ -747,7 +747,7 @@ section {
   font-weight: 600;
   display: inline-block;
   transition: 0.3s ease-in-out;
-  border-bottom: #00458f solid 2px;
+  border-bottom: #6F284F solid 2px;
 }
 
 #why-us .card .readmore:hover {
@@ -795,7 +795,7 @@ section {
   padding: 6px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #007bff;
+  color: #6F284F;
   border-radius: 0px;
   text-transform: uppercase;
   background: #ecf5ff;
@@ -805,7 +805,7 @@ section {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #6F284F;
   color: #fff;
 }
 
@@ -859,7 +859,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 a:hover {
-  color: #007bff;
+  color: #6F284F;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info p {
@@ -879,7 +879,7 @@ section {
   line-height: 1;
   width: 36px;
   height: 36px;
-  background: #007bff;
+  background: #6F284F;
   border-radius: ;
   margin: 10px 4px 0 4px;
 }
@@ -930,11 +930,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #007bff;
+  border: 1px solid #6F284F;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #007bff;
+  background-color: #6F284F;
 }
 
 .portfolio-details .portfolio-info {
@@ -1055,11 +1055,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #007bff;
+  border: 1px solid #6F284F;
 }
 
 #testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #007bff;
+  background-color: #6F284F;
 }
 
 /* Team Section
@@ -1193,7 +1193,7 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #007bff;
+  color: #6F284F;
 }
 
 #contact .contact-about p {
@@ -1211,7 +1211,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #007bff;
+  color: #6F284F;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1220,11 +1220,11 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #007bff;
+  border: 1px solid #6F284F;
 }
 
 #contact .social-links a:hover {
-  background: #007bff;
+  background: #6F284F;
   color: #fff;
 }
 
@@ -1234,7 +1234,7 @@ section {
 
 #contact .info i {
   font-size: 32px;
-  color: #007bff;
+  color: #6F284F;
   float: left;
   line-height: 0;
 }
@@ -1277,7 +1277,7 @@ section {
 #contact .php-email-form .loading:before {
   content: "";
   display: inline-block;
-  border-radius: 0px;
+  border-radius: 50%;
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
@@ -1309,14 +1309,14 @@ section {
 #contact .php-email-form button[type=submit] {
   background: #6F284F;
   border: 0;
-  border-radius: 20px;
+  border-radius: 0px;
   padding: 8px 30px;
   color: #fff;
   transition: 0.3s;
 }
 
 #contact .php-email-form button[type=submit]:hover {
-  background:#6F284F;
+  background: #0067d5;
   cursor: pointer;
 }
 
@@ -1341,7 +1341,7 @@ section {
 }
 
 #footer .footer-top {
-  background: #6F284F;
+  background:#6F284F ;
   padding: 60px 0 30px 0;
 }
 
@@ -1377,7 +1377,7 @@ section {
   background: #6F284F;
   color: #fff;
   margin-right: 4px;
-  border-radius: 50%;
+  border-radius: 0px;
   text-align: center;
   width: 36px;
   height: 36px;
@@ -1447,7 +1447,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter input[type=submit] {
-  background: #007bff;
+  background: #6F284F;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1517,7 +1517,7 @@ section {
 	padding: 1rem 2rem;
 	margin-right: 0.0625rem;
 	cursor: pointer;
-	background-color: #000;
+	background-color:#6F284F ;
 	color: #fff;
 	font-family: Roboto, sans-serif;
 	font-size: 1.2rem;
@@ -1550,8 +1550,8 @@ section {
 
 .tabs [type=radio]:checked + label {
 	background-color: #fff;
-	color: #0067b8;
-	border-top: 4px solid #0067b8;
+	color: #6F284F;
+	border-top: 4px solid #6F284F;
 	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.4);
 }
 
@@ -1587,4 +1587,3 @@ section {
 		width: 800px;
 	}
 }
-
